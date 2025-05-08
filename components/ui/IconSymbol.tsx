@@ -18,6 +18,19 @@ const MAPPING = {
   'paperplane.fill': 'send',
   'chevron.left.forwardslash.chevron.right': 'code',
   'chevron.right': 'chevron-right',
+  'book.fill': 'menu-book',
+  'doc.text.fill': 'description',
+  'chart.bar.fill': 'bar-chart',
+  // These are also used in your app
+  'calendar': 'calendar-today',
+  'clock.fill': 'access-time',
+  'mappin.circle.fill': 'location-on',
+  'plus': 'add', 
+  'person.fill': 'person',
+  'lock.fill': 'lock',
+  'graduationcap.fill': 'school',
+  'star.fill': 'star',
+  'person.circle.fill': 'account-circle'
 } as IconMapping;
 
 /**
